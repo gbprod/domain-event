@@ -1,2 +1,4 @@
-# domain-events
-Library to manage domain events in a DDD application
+# Domain event
+
+Library to manage domain events in a php DDD application.
+
