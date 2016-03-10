@@ -4,6 +4,10 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/gbprod/domain-event/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/gbprod/domain-event/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/gbprod/domain-event/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/gbprod/domain-event/?branch=master)
 
+[![Latest Stable Version](https://poser.pugx.org/gbprod/domain-event/v/stable)](https://packagist.org/packages/gbprod/domain-event) 
+[![Total Downloads](https://poser.pugx.org/gbprod/domain-event/downloads)](https://packagist.org/packages/gbprod/domain-event) 
+[![Latest Unstable Version](https://poser.pugx.org/gbprod/domain-event/v/unstable)](https://packagist.org/packages/gbprod/domain-event) 
+[![License](https://poser.pugx.org/gbprod/domain-event/license)](https://packagist.org/packages/gbprod/domain-event)
 
 Library to manage domain events in a php DDD application.
 
