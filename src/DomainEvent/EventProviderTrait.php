@@ -15,7 +15,7 @@ trait EventProviderTrait
     private $events = [];
     
     /**
-     * {inheritdoc}
+     * {@inheritdoc}
      */
     public function raise(DomainEvent $event)
     {
@@ -23,7 +23,7 @@ trait EventProviderTrait
     }
     
     /**
-     * {inheritdoc}
+     * {@inheritdoc}
      */
     public function popEvents()
     {

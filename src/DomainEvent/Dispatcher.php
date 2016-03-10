@@ -10,9 +10,9 @@ namespace GBProd\DomainEvent;
 interface Dispatcher
 {
     /**
-     * Dispatch event stream
+     * Dispatch event
      * 
      * @return void
      */
-    public function dispatch(array $events);
+    public function dispatch(DomainEvent $events);
 }
