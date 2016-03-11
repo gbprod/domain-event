@@ -14,5 +14,5 @@ interface Dispatcher
      * 
      * @return void
      */
-    public function dispatch(DomainEvent $events);
+    public function dispatch(EventProvider $provider);
 }

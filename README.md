@@ -77,9 +77,7 @@ class MyEntityRepository
     {
         $this->persist($entity);
         
-        foreach($entity->popEvents() as $event) {
-            $this->dispatcher->dispatch($event);
-        }
+        $this->dispatcher->dispatch($entity);
     }
 }
 ```
