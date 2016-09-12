@@ -1,5 +1,7 @@
 # Domain event
 
+![stability-deprecated](https://img.shields.io/badge/stability-deprecated-red.svg)
+
 [![Build Status](https://travis-ci.org/gbprod/domain-event.svg?branch=master)](https://travis-ci.org/gbprod/domain-event)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/gbprod/domain-event/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/gbprod/domain-event/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/gbprod/domain-event/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/gbprod/domain-event/?branch=master)
